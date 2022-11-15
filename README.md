@@ -35,3 +35,5 @@ $ python run_experiment.py --help
 The script ```experiments.sh``` reproduces all the experiments presented
 in our paper.
 Note that this is a very compute-intensive process.
+The results of these experiments are also available in the
+```results.zip``` archive.
